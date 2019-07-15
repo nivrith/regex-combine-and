@@ -8,6 +8,10 @@
   "author": "Nivrith <nivrithgomatam@gmail.com>",
   "license": "MIT",
   "keywords": [
+    "regex",
+    "and",
+    "regex-and",
+    "regular-expresions",
     "regex-combine-and"
   ],
   "scripts": {
